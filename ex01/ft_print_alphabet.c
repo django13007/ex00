@@ -12,9 +12,3 @@ while (i <= 122)
 
 }
 
-int main()
-{
-
-ft_print_alphabet();
-    return 0;
-}
