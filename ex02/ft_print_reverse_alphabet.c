@@ -11,10 +11,3 @@ while (i >= 97)
 
 
 }
-
-int main()
-{
-
-ft_print_reverse_alphabet();
-    return 0;
-}
