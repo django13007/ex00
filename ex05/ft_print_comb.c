@@ -24,11 +24,17 @@ while (n1 <= 57)
             write(1, ",",1);
             write(1, " " ,1);
 
-        n3++;
+            n3++;
         }  
-    n2++;
+        n2++;
     }   
-n1++;
+    n1++;
 
 }
+}
+
+int main ()
+{
+    ft_print_comb();
+    return 0;
 }
