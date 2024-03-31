@@ -19,3 +19,12 @@ ex02 Ejecuta correctamente
 ex03 Ejecuta correctamente
 ex04 Ejecuta correctamente
 ex05 Ejecuta correctamente
+
+
+agonzales
+ex00 ok
+ex01 ok
+ex02 ok
+ex03 ok
+ex04 ok
+ex05 ok
